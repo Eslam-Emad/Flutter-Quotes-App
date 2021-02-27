@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-## Technology used
+## Technologies used
  - Xano for backend
  - Rivepod for State managment
+ - Hooks
 
